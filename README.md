@@ -6,12 +6,10 @@ My name is Hoang Trung Tin
 
 ## Social
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='Jan Küster on YouTube' height='40'>](https://www.youtube.com/@meteorjscommunity)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='Jan Küster on dev.to' height='40'>](https://dev.to/jankapunkt)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-plain.svg' alt='Jan Küster on the Meteor forums' height='40'>](https://forums.meteor.com/u/jkuester)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg' alt='Jan Küster on Twitter' height='40'>](https://twitter.com/kuester_jan)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='Jan Küster on LinkedIn' height='40'>](https://www.linkedin.com/in/jan-kuester/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='Jan Küster on StackOverflow' height='40'>](https://stackoverflow.com/users/3098783)
+[<img src='![image](https://github.com/cinne2611/cinne2611/assets/106093804/39164e2f-0441-4eb4-8205-5f92c1199a4e)
+' alt='icon_by_Cinne' height='40'>](link='')
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/meteor/meteor-plain.svg' alt='icon_by_Cinne' height='40'>]
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='icon_by_Cinne' height='40'>]
 
 
 
