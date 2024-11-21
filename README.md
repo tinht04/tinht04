@@ -9,7 +9,8 @@ I'm a passionate software developer with a strong background in Java, C#, Docker
 - **DevOps**: Docker
 
 ## GitHub Stats
-![https://github.com/tinht04?tab=stars](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinht04&show_icons=true&theme=radical)
+
 
 
 
