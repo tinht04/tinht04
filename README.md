@@ -10,7 +10,7 @@
 </div>
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhducminhqt&layout=compact&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinht04&layout=compact&theme=radical" width="47%" />
 </div>
 
 ## Contact Me
