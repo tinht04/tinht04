@@ -1,18 +1,17 @@
-# Hi there, I'm Hoang Trung Tin 👋
+<h1 align="center">Hi 👋, I'm Trung Tin, 🐍 A .NET Developer</h1>
+### 🌐 About Me
 
-## About Me
-I'm a passionate software developer with a strong background in Java, C#, Docker, React.js, and Bootstrap. I love building scalable and efficient applications that solve real-world problems.
-
-## Technologies & Tools
-- **Languages**: Java, C#
-- **Frontend**: React.js, Bootstrap
-- **DevOps**: Docker
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinht04&show_icons=true&theme=radical)
-
-
-
+//My Portfolio: [-portfolio.vercel.app](https://-portfolio.vercel.app)
+  
+<div>
+  <p ">
+  <img src="https://komarev.com/ghpvc/?username=tinht04&label=visitors&color=blue" alt="visitor badge"/>
+</p>
+</div>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhducminhqt&layout=compact&theme=radical" width="47%" />
+</div>
 
 ## Contact Me
 - **Email**: [tinht.hoangtrung@gmail.com](mailto:tinht.hoangtrung@gmail.com)
