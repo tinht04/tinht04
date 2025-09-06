@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trung Tin, 🐍 A .NET Developer</h1>
 ### 🌐 About Me
 
-//My Portfolio: [-portfolio.vercel.app](https://-portfolio.vercel.app)
+
   
 <div>
   <p ">
